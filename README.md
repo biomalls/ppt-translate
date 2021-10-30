@@ -1,2 +1,2 @@
 # ppt-translate
-using python library
+using python google trans library
